@@ -1,7 +1,7 @@
 # ETL in Python and SQL
 
 ## Course Overview
-This repository contains the course materials for **ETL in Python and SQL**, taught by Jennifer Ebe, a data engineer with over 5 years of experience. The course is designed to help you build robust systems that gather, transform, and store data efficiently for actionable insights. It focuses on:
+This repository contains the course materials for [**ETL in Python and SQL**](https://www.linkedin.com/learning/etl-in-python-and-sql/), taught by Jennifer Ebe, a data engineer with over 5 years of experience. The course is designed to help you build robust systems that gather, transform, and store data efficiently for actionable insights. It focuses on:
 
 - **Extracting Data**: Using Python to gather data from various sources.
 - **Transforming Data**: Leveraging tools like pandas and SQL to explore, clean, and standardize data.
